@@ -1,7 +1,11 @@
-body{
+
+   #backcolor{
+     height: 1000px;
+     width: 1010px;
     background: linear-gradient(to right, #f13d6c, #7b46cd);
-}
+   }
 .grid-container{
+    
     border : 0px rgb(170, 15, 118) solid;
     height: 500px;
     width: 1000px;
